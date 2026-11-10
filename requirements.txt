@@ -1,0 +1,11 @@
+# Machine Learning Midterm — Breast Cancer and Wine
+# Python version used: 3.13.2
+# Exact versions below were read from the executed Wine notebook.
+# For other packages, use `python -m pip freeze` in your own .venv
+# to record the exact versions installed on your computer.
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
+matplotlib
+seaborn
+ipykernel
