@@ -5,3 +5,7 @@ cvs files/
 backup/
 .env
 *.pyc
+
+bc_*.csv
+*.before_wine_backup.csv
+*.zip

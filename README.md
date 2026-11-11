@@ -100,7 +100,7 @@ The previous project check found **21 PNG figures**. Verify the count and conten
 
 ## Repository and walkthrough
 
-- **GitHub repository:** ``
-- **Narrated walkthrough (2–3 minutes):** `[INSERT YOUR VIDEO URL OR LMS FILE REFERENCE]`
+- **GitHub repository: https://github.com/SouthSideDrip/Machine-Learning-Midterm** ``
+
 
 The notebook outputs, report, and CSV files must reflect the same final project state. AI use is documented in [AI_DISCLOSURE.md](AI_DISCLOSURE.md).
